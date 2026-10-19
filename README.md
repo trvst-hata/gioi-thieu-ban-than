@@ -1,6 +1,6 @@
 # gioi-thieu-ban-than
 # Họ và tên:  Bùi Anh Tài
-![alttext](https://ibb.co/3K4WHX5)
+![Hình ảnh](/avatar.jpg)
 
 Mình là sinh viên Khoa Tin học tại Trường Đại học Sư phạm - Đại học Huế, với định hướng chính là Competitive Programming và rèn luyện tư duy thuật toán chuyên sâu.  
 
